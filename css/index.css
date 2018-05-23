@@ -18,5 +18,13 @@
 }
 
 .div_green {
-  
+  color: green;
+}
+
+.div_red {
+  color: red;
+}
+
+.div_blue {
+  color: blue;
 }
