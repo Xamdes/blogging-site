@@ -1,3 +1,6 @@
+body {
+  background-color: #D7DBDD;
+}
 .span_red {
   color: red;
 }
@@ -8,13 +11,30 @@
   color: green;
 }
 
+.span_black {
+  color: black;
+}
+
 .center_header {
   text-align: center;
   font-size: 1.8em;
 }
 
+.about_center_header {
+  text-align: center;
+  font-size: 1em;
+}
+
 .paragraph_size {
   font-size: 1.2em;
+  border-left-style: solid;
+  border-color: navy;
+  background-color: lightcyan;
+  border-left-width: .5em;
+}
+
+.seperator_horizontal {
+  border-bottom-style: solid;
 }
 
 .div_green {
@@ -27,4 +47,13 @@
 
 .div_blue {
   color: blue;
+}
+
+.about_style {
+  font-size: 1.4em;
+  font-family: monospace;
+  border-left-style: solid;
+  border-color: #C39BD3;
+  background-color: #82E0AA;
+  border-left-width: .5em;
 }
