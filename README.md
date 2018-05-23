@@ -8,7 +8,7 @@
 
 Created a Blogging Site in order to practice styling using divs and spans.
 
-## Technologye Used
+## Technology Used
 
 HTML and CSS and styling using Divs and Spans
 
