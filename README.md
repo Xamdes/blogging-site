@@ -12,7 +12,7 @@ Created a Blogging Site in order to practice styling using divs and spans.
 
 HTML and CSS and styling using Divs and Spans
 
-##installation
+## Installation
 Clone from https://github.com/xamdes/blogging-site.git
 or https://github.com/bscott9592/blogging_site.git
 
